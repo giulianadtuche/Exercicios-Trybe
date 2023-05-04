@@ -14,8 +14,8 @@ function multiplicaSaldo(valor) {
 function divideSaldo(valor) {
     return saldo / valor;
 }
-console.log(somaSaldo(300));
-console.log(subtraiSaldo(50));
-console.log(multiplicaSaldo(2));
-console.log(divideSaldo(5));
+console.log(somaSaldo(50));
+console.log(subtraiSaldo(2));
+console.log(multiplicaSaldo(6));
+console.log(divideSaldo(10));
 
